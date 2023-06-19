@@ -1,0 +1,11 @@
+- Porque un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y otros no?
+
+Un lenguaje de programación no está necesariamente limitado a un sistema operativo. Pero esto puede depender de factores como la implementación, las bibliotecas o los estándares.
+
+- Que tipo de maquina virtual es virtualBox?
+
+De sistemas operativos.
+
+- Si tengo mas de una maquina virtual instalada, y una se rompe. Esto afecta a las demas? Porque?
+
+Por la forma en que se implementa la virtualización y cómo se aíslan las máquinas virtuales, no debe de afectar al resto.
